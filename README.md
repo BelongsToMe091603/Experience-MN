@@ -1,28 +1,23 @@
+🩺 Breast Cancer Prediction
+
+A classification project to predict malignant or benign tumors based on medical features. Using supervised learning with preprocessing, model training, and performance evaluation stages to support initial diagnostic analysis.
+
 🏠 House Price Prediction
 
-Project ini bertujuan memprediksi harga rumah berdasarkan berbagai fitur properti menggunakan algoritma machine learning. Proses meliputi data preprocessing, exploratory data analysis (EDA), feature engineering, serta evaluasi model regresi untuk menghasilkan prediksi harga yang akurat.
+A regression model to predict house prices based on property characteristics. This project includes data cleaning, exploratory data analysis (EDA), feature engineering, and model evaluation to produce accurate price estimates.
 
-Tools: Python, Pandas, NumPy, Matplotlib, Scikit-learn
-Task: Regression
+✍️ QOLAMI Model
 
-✍️ QOLAMI – Arabic Handwriting Recognition Model
+A deep learning model for handwritten hijaiyah recognition (30 classes). Developed as part of an Android-based Arabic writing learning application, equipped with a confidence level for prediction results.
 
-QOLAMI adalah model kecerdasan buatan untuk mengenali tulisan huruf hijaiyah berbasis citra. Model ini dikembangkan untuk mendukung aplikasi pembelajaran menulis Arab pada platform Android.
+🌐 Website Scraping
 
-Fitur utama:
-
-- Klasifikasi 30 huruf hijaiyah
-
-- Confidence level pada hasil prediksi
-
-- Cocok untuk integrasi mobile application
-
-Tools: Python, TensorFlow/Keras, OpenCV
-Task: Image Classification (30 classes)
+A project to automatically extract data from websites using web scraping techniques. The collected data can be used for advanced analysis, reporting, or integration into data pipelines.
 
 📞 Telco Customer Churn Prediction
 
-Project ini bertujuan memprediksi kemungkinan pelanggan berhenti berlangganan (churn) pada perusahaan telekomunikasi. Model membantu perusahaan memahami faktor-faktor utama churn dan mendukung pengambilan keputusan bisnis.
+A binary classification project to predict the likelihood of customer churn. This analysis helps identify key churn factors to support customer retention strategies.
 
-Tools: Python, Pandas, Scikit-learn, Seaborn
-Task: Binary Classification
+📝 Text Classification
+
+A Natural Language Processing (NLP) project to classify text into several categories. This involves text preprocessing, feature extraction, and classification model development.
